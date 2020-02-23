@@ -1,0 +1,15 @@
+ .container {
+        background-color: '#363740';
+        width: 255;
+        padding-top: 32;
+    }
+    .menuItemList {
+        margin-top: 52;
+    }
+
+    .separator {
+        border-top: '1px solid #DFE0EB';
+        margin-top: 16;
+        opacity: 0.06;
+        margin-bottom: 16;
+    }

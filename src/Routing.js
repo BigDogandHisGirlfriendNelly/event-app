@@ -33,7 +33,8 @@ class Routing extends React.Component {
     };
     let styleSwitch = {
       float: "right",
-      background: "darkgrey"
+      background: "darkgrey",
+      overflow: "scroll"
     };
 
     return (

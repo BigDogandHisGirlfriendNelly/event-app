@@ -1,1 +1,11 @@
-
+.link:hover {
+  text-decoration: none;
+}
+.brand {
+  text-decoration: none;
+  height: 95px;
+}
+.title{
+  margin:25px;
+  
+}
